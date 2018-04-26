@@ -1,9 +1,10 @@
 
 # coding: utf-8
-
+#Created by Ryan Bradley-Evans
 # brfore running this code lmfit must be installed: to so this go to the console and exicute the following line of code -> 'pip install lmfit'
 
 # # Imports
+
 
 # In[1]:
 
